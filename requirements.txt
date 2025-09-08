@@ -1,0 +1,6 @@
+langchain[groq]
+python-dotenv
+langgraph
+streamlit
+google.genai
+langchain-chroma
